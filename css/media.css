@@ -1,0 +1,27 @@
+/* ipad */
+@media (width: 768px) {}
+
+/* phone */
+@media (max-width: 768px) {
+    .header .navbar img {
+        margin: auto;
+    }
+
+    .home .home-p {
+        width: 70%;
+    }
+
+    .section-two .imge-text .text {
+        position: absolute;
+        padding: 10px;
+        bottom: -20px;
+        width: 45%;
+        font-size: 13px;
+    }
+
+    .footer .icon {
+        display: flex;
+        justify-content: center;
+
+    }
+}
