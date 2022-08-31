@@ -405,7 +405,11 @@ i {
   width: 60%;
   margin: auto;
 }
-
+.content p{
+  width: 50%;
+  margin: auto;
+  padding-bottom: 50px;
+}
 /***********************************/
 .footer {
   background-color: #1787e0;
